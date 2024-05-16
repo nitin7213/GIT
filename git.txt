@@ -57,3 +57,7 @@ rm .git/index.lock
 ---Remove Git Remote-----
 git remote -v  --> check connected remote
 git remote remove origin
+
+
+---after installing vs code-----
+git config --global --add safe.directory D:/folder_name
